@@ -76,3 +76,15 @@ It can be adopted by hospitals, ambulances for effective routing and addressing 
 ---------------------------------------------------------------------------------------------------
 
 ## Details to run the project
+
+#### TO RUN THE FLUTTER MOBILE APP
+
+Step 1 − Go to URL, https://flutter.dev/docs/get-started/install/windows and download the latest Flutter SDK. As of April 2019, the version is 1.2.1 and the file is flutter_windows_v1.2.1-stable.zip.
+
+Step 2 − Unzip the zip archive in a folder, say C:\flutter\
+
+Step 3 − Update the system path to include flutter bin directory.
+
+Step 4 − Flutter provides a tool, flutter doctor to check that all the requirement of flutter development is met.
+
+Step 5 - flutter run (command to run the app)
