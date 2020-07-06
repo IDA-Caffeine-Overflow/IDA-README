@@ -88,3 +88,17 @@ Step 3 − Update the system path to include flutter bin directory.
 Step 4 − Flutter provides a tool, flutter doctor to check that all the requirement of flutter development is met.
 
 Step 5 - flutter run (command to run the app)
+
+#### TO RUN THE WEB APP
+Step 1 - Go to URL, https://github.com/IDA-Caffeine-Overflow/IDA-Website.git and download the repository.
+
+Step 2 - Make sure Python 3.7.* is installed and path is mentioned in the environment variables.
+
+Step 3 - Please install all the required packages present in Requirements.txt using pip.
+
+          #For example 
+              pip install librosa
+
+Step 4 - To start the server use the below command.
+              
+              ##python3 server.py
